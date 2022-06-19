@@ -22,6 +22,10 @@ This project utilizes the FitBit Fitness Tracker Data, a Public Domain dataset m
 3. Data was recorded over 5 years ago (2016)
 
 ## Processing
+I decided to utilize SQL and Tableau for this project. 
+The reason I chose SQL was because I would be able to quickly and efficiently retrieve specific information from a large database.
+I chose Tableau as my data visualization tool since it was user-friendly and able to handle large amounts of data.
+
 ### Quick overview of data, then looking to see how many users there are
 ~~~
 SELECT *
@@ -159,3 +163,8 @@ As such, I recommend the following changes to get users more active and help the
 - Create a community/leaderboard so that users can share their progress with friends and compete with one another.
 - Include a function on the app to remind users to be move active if they have been sedentary for too long.
 - Encourage users to provide more information (BMI, Gender, Age, etc.) do that the Leaf can more accurately help them.
+
+## Afterword
+Additional data that would be relevant to enhancing my work.
+1. Bellebeat Leaf Sales Data
+2. Expanded Personal Information of Bellebeat Users for Segmentation Analysis
